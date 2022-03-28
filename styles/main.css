@@ -56,6 +56,12 @@ table, td, th {
 th, td {
     padding: 1em;
 }
+h4 {
+    margin-top: 1em;
+}
+.big-img {
+    width: min(100%, 600px);
+}
 
 /* utility classes */
 .inner-ul {
